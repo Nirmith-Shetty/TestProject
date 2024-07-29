@@ -6,5 +6,7 @@ public class SamplePrintTest {
 
         System.out.println("Hey this is my first project");
 
+        System.out.println("One more test");
+
     }
 }
