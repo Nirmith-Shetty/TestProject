@@ -9,4 +9,8 @@ public class SamplePrintTest {
         System.out.println("One more test");
 
     }
+
+    //Building the framework from scrath and pushing to github
+    //Pulling an existing project and working on new changes
+
 }
