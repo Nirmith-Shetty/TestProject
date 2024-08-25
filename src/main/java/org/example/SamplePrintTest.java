@@ -8,6 +8,12 @@ public class SamplePrintTest {
 
         System.out.println("One more test");
 
+        System.out.println("One more test1");
+        System.out.println("One more test2");
+        System.out.println("One more test3");
+
+
+
     }
 
     //Building the framework from scrath and pushing to github
